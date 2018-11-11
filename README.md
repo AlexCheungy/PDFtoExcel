@@ -1,6 +1,7 @@
 # PDFtoExcel
 Python 2 Script to retrieve rates from PDF and put it into one neat Excel file
 
+Using: https://github.com/jalan/pdftotext
 
 My first Python Script I created to automate a mundane process! While working IT, 
 and beginning to learning to code outside of my university program. I dove into 
